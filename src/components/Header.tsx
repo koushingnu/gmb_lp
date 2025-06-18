@@ -14,7 +14,7 @@ const Header = () => (
           <div className="bg-orange-400 m-1 rounded" />
         </div>
         <h1 className="text-4xl sm:text-5xl font-extrabold text-orange-500 tracking-tight">
-          GMB Review
+          ABCDEFG
         </h1>
       </div>
       <div className="text-lg sm:text-xl text-gray-500 mb-8">

@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 const AboutMeoSection = () => (
   <section className="bg-yellow-50 py-28 px-4">
