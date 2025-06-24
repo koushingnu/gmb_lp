@@ -1,20 +1,20 @@
 const points = [
   {
-    img: "/images/sample-screenshot-1.png", // ←自分の画像に変更
+    img: "/images//gazou1.jpeg", // ←自分の画像に変更
     title: "POINT 1",
     heading: "上位3位以内の専用エリアに表示されるから",
     description:
       "Googleマップでお店を探す多くのユーザーは、最初に表示される上位3店舗から選ぶ傾向が強いです。だからこそ、検索結果の目立つ場所に表示されることで、集客成功のチャンスが大きく広がります。",
   },
   {
-    img: "/images/sample-screenshot-2.png",
+    img: "/images/gazou3.jpeg",
     title: "POINT 2",
     heading: "意欲の高いユーザーにアプローチできるから",
     description:
       "『近くのラーメン』『今すぐ行けるカフェ』など、今すぐ来店したいユーザーが検索。意欲が高い見込み客に効率よくアプローチできるのがMEOの強みです。",
   },
   {
-    img: "/images/sample-screenshot-3.png",
+    img: "/images/gazou2.jpeg",
     title: "POINT 3",
     heading: "電話予約や経路検索がスムーズに行えるから",
     description:
